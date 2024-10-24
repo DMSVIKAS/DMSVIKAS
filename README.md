@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DMSVIKAS
-- 👀 I’m interested in coding ,designing and editing
+- 👀 I’m interested in coding ,designing ,editing , Data Science and Machine learning.
 - 🌱 I’m currently doing my bachelors degree @VIT AP
 - - 💞️ I’m looking to collaborate on poster editing and video designing
 - 📫 How to reach me ...dmsvikas@gmail.com
