@@ -80,17 +80,14 @@ I'm a Software Engineer passionate about creating impactful technology.
 
 # 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DMSVIKAS&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DMSVIKAS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DMSVIKAS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
-[<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DMSVIKAS&layout=compact&theme=tokyonight&hide_border=true"/>](https://github-readme-stats-sigma-five.vercel.app/api?username=DMSVIKAS&show_icons=true&theme=tokyonight)
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DMSVIKAS&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DMSVIKAS&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
