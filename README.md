@@ -78,54 +78,6 @@ I'm a Software Engineer passionate about creating impactful technology.
 </p>
 ---
 
-# 🌟 What I Love
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-💡
-
-### AI
-
-Building intelligent systems
-
-</td>
-
-<td align="center" width="25%">
-
-☁
-
-### Cloud
-
-Scalable deployments
-
-</td>
-
-<td align="center" width="25%">
-
-⚙
-
-### Backend
-
-Reliable APIs
-
-</td>
-
-<td align="center" width="25%">
-
-🚀
-
-### Innovation
-
-Creating products
-
-</td>
-
-</tr>
-</table>
-
----
 # 📊 GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DMSVIKAS&show_icons=true&theme=tokyonight&hide_border=true"/>
