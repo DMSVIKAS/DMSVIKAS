@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Embedded+Systems;AWS+Certified;Building+the+Future+with+Vebee" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=36&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=AI+Engineer;Full+Stack+Developer;Embedded+Systems;AWS+Certified;Building+the+Future+with+Vebee" />
 </p>
 
 <br>
