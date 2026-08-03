@@ -23,7 +23,7 @@ and modern developer experiences.
 </a>
 
 <a href="YOUR LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/mokshagna-sree-vikas-dasari-831530227/)"/>
 
 </a>
 
