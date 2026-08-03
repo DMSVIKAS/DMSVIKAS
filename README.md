@@ -36,7 +36,7 @@ and modern developer experiences.
 </p>
 
 # 👨‍💻 About Me
-
+<div align="center">
 <table>
 <tr>
 
