@@ -103,11 +103,11 @@ I'm a Software Engineer passionate about creating impactful technology.
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=DMSVIKAS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DMSVIKAS&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</div>
+---
 
 ---
 
