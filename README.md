@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/icons/banner.png" width="170" alt="Vebee Logo"/>
+<img src="./assets/banner.png" width="170" alt="Vebee Logo"/>
 
 # Hi 👋 I'm **Vikas**
 
