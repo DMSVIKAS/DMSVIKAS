@@ -16,22 +16,17 @@ and modern developer experiences.
 <br>
 
 <p align="center">
+  <a href="https://github.com/DMSVIKAS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://github.com/DMSVIKAS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <a href="https://www.linkedin.com/in/mokshagna-sree-vikas-dasari-831530227/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-</a>
-
-<a href="YOUR LINKEDIN">
-<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/mokshagna-sree-vikas-dasari-831530227/)"/>
-
-</a>
-
-<a href="YOUR PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
-</a>
-
+  <a href="https://dmsvikas.github.io/portfolio3/">
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 </p>
 
 </div>
