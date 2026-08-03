@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="170" alt="Vebee Logo"/>
-
 # Hi 👋 I'm **Vikas**
 
 ### Software Engineer • AI Engineer • Building **Vebee**
@@ -61,7 +59,7 @@ I'm a Software Engineer passionate about creating impactful technology.
 
 <td align="center">
 
-<img src="./assets/logo.png" width="180"/>
+<img src="./assets/icons/logo.png" width="180"/>
 
 </td>
 
