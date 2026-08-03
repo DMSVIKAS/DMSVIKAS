@@ -76,7 +76,7 @@ I'm a Software Engineer passionate about creating impactful technology.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,react,nextjs,nodejs,fastapi,mongodb,mysql,postgres,docker,aws,linux,git,github,vscode,figma,tensorflow,pytorch" />
 </p>
----
+
 
 # 📊 GitHub Analytics
 
