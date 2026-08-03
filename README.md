@@ -32,7 +32,7 @@ and modern developer experiences.
 </div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+ <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12,20,24,30" width="100%"/>
 </p>
 
 
