@@ -3,14 +3,6 @@
 </p>
 <div align="center">
 
-# Hi 👋 I'm **Vikas**
-
-### Software Engineer • AI Engineer • Building **Vebee**
-
-<p>
-Building intelligent software, AI-powered products, cloud-native applications,
-and modern developer experiences.
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Embedded+Systems;AWS+Certified;Building+the+Future+with+Vebee" />
