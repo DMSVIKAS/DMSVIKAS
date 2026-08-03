@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=VIKAS&fontSize=70&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Founder%20of%20Vebee&descAlignY=60"/>
 </p>
 <div align="center">
-
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Embedded+Systems;AWS+Certified;Building+the+Future+with+Vebee" />
 </p>
