@@ -101,10 +101,8 @@ I'm a Software Engineer passionate about creating impactful technology.
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DMSVIKAS/DMSVIKAS/output/github-contribution-grid-snake.svg" alt="snake" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=VEBEE&fontSize=70&fontColor=00E5FF&animation=fade&fontAlignY=40&desc=Future,%20Built%20Today.&descAlignY=60"/>
 </p>
 
 # 🚀 Featured Projects
