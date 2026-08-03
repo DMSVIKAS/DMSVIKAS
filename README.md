@@ -31,7 +31,10 @@ and modern developer experiences.
 
 </div>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+</p>
+
 
 # 👨‍💻 About Me
 
@@ -98,10 +101,7 @@ I'm a Software Engineer passionate about creating impactful technology.
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DMSVIKAS&theme=tokyo-night&hide_border=true)](https://github.com/DMSVIKAS)
 
 </div>
--
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</p>
+---
 
 # 🚀 Featured Projects
 
