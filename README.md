@@ -220,7 +220,7 @@ Docker
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00E5FF"/>
 
 <div align="center">
 
