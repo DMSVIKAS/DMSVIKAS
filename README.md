@@ -98,11 +98,9 @@ I'm a Software Engineer passionate about creating impactful technology.
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DMSVIKAS&theme=tokyo-night&hide_border=true)](https://github.com/DMSVIKAS)
 
 </div>
-
----
-
+-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=VEBEE&fontSize=70&fontColor=00E5FF&animation=fade&fontAlignY=40&desc=Future,%20Built%20Today.&descAlignY=60"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 </p>
 
 # 🚀 Featured Projects
