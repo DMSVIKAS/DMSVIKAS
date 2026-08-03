@@ -1,0 +1,138 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090B"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6A11CB"/>
+      <stop offset="30%" stop-color="#8E2DE2"/>
+      <stop offset="65%" stop-color="#4361EE"/>
+      <stop offset="100%" stop-color="#00D4FF"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+
+  <!-- Background Glow -->
+
+  <circle cx="220" cy="100" r="170"
+      fill="#6A11CB"
+      opacity=".18"/>
+
+  <circle cx="1450" cy="420" r="210"
+      fill="#00D4FF"
+      opacity=".12"/>
+
+  <!-- Grid -->
+
+  <g opacity=".06">
+
+  <path d="M0 80H1600"/>
+  <path d="M0 160H1600"/>
+  <path d="M0 240H1600"/>
+  <path d="M0 320H1600"/>
+  <path d="M0 400H1600"/>
+
+  </g>
+
+  <!-- Logo Circle -->
+
+  <circle
+      cx="260"
+      cy="250"
+      r="120"
+      stroke="url(#grad)"
+      stroke-width="6"
+      fill="#0D1117"/>
+
+  <!-- Placeholder -->
+
+  <image
+    href="icons/logo.png"
+    x="150"
+    y="140"
+    width="220"
+    height="220"/>
+
+  <!-- Main Text -->
+
+  <text
+      x="470"
+      y="175"
+      fill="white"
+      font-size="62"
+      font-family="Inter,Arial"
+      font-weight="700">
+
+      DMS VIKAS
+
+  </text>
+
+  <text
+      x="470"
+      y="235"
+      fill="#C9D1D9"
+      font-size="30"
+      font-family="Inter,Arial">
+
+      Software Engineer • AI Engineer
+
+  </text>
+
+  <text
+      x="470"
+      y="285"
+      fill="#00D4FF"
+      font-size="24"
+      font-family="Inter,Arial">
+
+      Building Vebee
+
+  </text>
+
+  <text
+      x="470"
+      y="345"
+      fill="#8B949E"
+      font-size="22"
+      font-family="Inter,Arial">
+
+      Building the Future, Today.
+
+  </text>
+
+  <!-- Accent Line -->
+
+  <rect
+      x="470"
+      y="375"
+      width="420"
+      height="4"
+      rx="2"
+      fill="url(#grad)"/>
+
+  <!-- Decorative Nodes -->
+
+  <g filter="url(#glow)">
+
+    <circle cx="1330" cy="130" r="5" fill="#00D4FF"/>
+    <circle cx="1270" cy="180" r="4" fill="#4361EE"/>
+    <circle cx="1385" cy="240" r="4" fill="#8E2DE2"/>
+    <circle cx="1200" cy="310" r="5" fill="#6A11CB"/>
+
+  </g>
+
+</svg>
