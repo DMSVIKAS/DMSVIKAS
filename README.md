@@ -101,7 +101,6 @@ I'm a Software Engineer passionate about creating impactful technology.
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DMSVIKAS&theme=tokyo-night&hide_border=true)](https://github.com/DMSVIKAS)
 
 </div>
----
 
 # 🚀 Featured Projects
 
