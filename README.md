@@ -9,7 +9,9 @@ Building intelligent software, AI-powered products, cloud-native applications,
 and modern developer experiences.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=00D4FF&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Cloud+Enthusiast;Building+Vebee)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Embedded+Systems;AWS+Certified;Building+the+Future+with+Vebee" />
+</p>
 
 <br>
 
