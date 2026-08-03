@@ -322,7 +322,8 @@ Docker
 
 <div align="center">
 
-<img src="./assets/logo.png" width="90" alt="Vebee Logo"/>
+<img src="./assets/icons/logo.png" width="170" alt="Vebee Logo"/>
+
 
 ## ⭐ Building the Future with AI
 
