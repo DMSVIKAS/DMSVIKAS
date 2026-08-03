@@ -73,45 +73,9 @@ I'm a Software Engineer passionate about creating impactful technology.
 ---
 
 # ⚡ Tech Stack
-
-<div align="center">
-
-## 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
-
-<br><br>
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-
-<br><br>
-
-## ⚙ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask"/>
-
-<br><br>
-
-## 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-<br><br>
-
-## ☁ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
-
-<br><br>
-
-## 🧠 AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</div>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,react,nextjs,nodejs,fastapi,mongodb,mysql,postgres,docker,aws,linux,git,github,vscode,figma,tensorflow,pytorch" />
+</p>
 ---
 
 # 🌟 What I Love
